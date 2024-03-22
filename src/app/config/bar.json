@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "image": "/FashionNews/bar.svg",
+        "image1":"/FashionNews/art1.svg",
+        "text":"Chi tiết sản phẩm",
+        "title":"Fearless Flannel Shirt in Blue",
+        "text1":"Áo: https://shp.ee/de5snva",
+        "image2":"/FashionNews/ao.svg",
+        "title1":"Skinny Jeans With Knee Rips In Blue",
+        "text2":"Quần: https://shp.ee/38m8gq1",
+        "image3":"/FashionNews/quan.svg",
+        "title2":"Nike Air Force 1",
+        "text3":"Giày: https://shp.ee/qmujire",
+        "image4":"/FashionNews/giay.svg"
+    }
+]

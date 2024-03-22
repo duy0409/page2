@@ -1,0 +1,83 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Chia thành hai cột có độ rộng bằng nhau */
+    justify-content: space-evenly;
+    gap: 6px;
+    padding: 10px;
+    margin: 0 auto; /* Căn giữa container */
+    max-width: 1200px; /* Giới hạn chiều rộng tối đa của container nếu cần */
+    width: 100%; /* Cố định chiều rộng của container */
+    box-sizing: border-box; /* Đảm bảo kích thước của container bao gồm cả padding và border */
+  }
+  
+  
+ .bar {
+padding-top: 30px;
+margin-left: 12%;
+
+ } 
+
+ .img{
+    margin-left: 10%;
+ }
+  .title1{
+    font-size: 36px;
+    font-weight: bold;
+    font-style: italic;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    color: #D0CCC6;
+  }
+  .title2{
+    font-size: 36px;
+    font-weight: bold;
+    font-style: italic;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    color: #D0CCC6;
+  }
+  .title{
+    font-size: 36px;
+    font-weight: bold;
+    font-style: italic;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    color: #D0CCC6;
+  }
+  .text1{
+    font-size: 16px;
+    color: #D0CCC6;
+    padding-bottom: 20px;
+  }
+  .text1:hover{
+    color: rgb(173, 56, 14);
+  }
+  .text2{
+    font-size: 16px;
+    color: #D0CCC6;
+    padding-bottom: 20px;
+  }
+  .text2:hover{
+    color: rgb(173, 56, 14);
+  }
+
+  .text3{
+    font-size: 16px;
+    color: #D0CCC6;
+    padding-bottom: 20px;
+  }
+  .text3:hover{
+    color: rgb(173, 56, 14);
+  }
+  .text{
+    text-align: center;
+    font-size: 24px;
+    color: #D0CCC6;
+    padding-bottom: 20px;
+  }
+
+
+
+
+
+  
